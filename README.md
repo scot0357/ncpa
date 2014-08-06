@@ -1,3 +1,5 @@
+[![Build Status](https://drone.io/github.com/scot0357/ncpa/status.png)](https://drone.io/github.com/scot0357/ncpa/latest)
+
 NCPA
 ====
 
